@@ -1,4 +1,4 @@
-FROM n8nio/n8n:2.6.3 
+FROM docker.io/n8nio/n8n:2.7.0
 
 USER root
 # Base image nao tem gerenciador de pacotes; evita instalar aqui.
